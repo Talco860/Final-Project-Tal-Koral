@@ -1,0 +1,5090 @@
+fileFormatVersion: 2
+guid: 9fdbdb0dc236d194d9601c4b73239948
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: GroundRoadEdge1
+  - first:
+      213: 21300002
+    second: GroundRoadEdge2
+  - first:
+      213: 21300004
+    second: GroundRoadEdge3
+  - first:
+      213: 21300006
+    second: GroundRoadEdge7
+  - first:
+      213: 21300008
+    second: GroundRoadEdge8
+  - first:
+      213: 21300010
+    second: TireTracksA3
+  - first:
+      213: 21300012
+    second: TireTracksA4
+  - first:
+      213: 21300014
+    second: TireTracksB1
+  - first:
+      213: 21300016
+    second: TireTracksB3
+  - first:
+      213: 21300018
+    second: TireTracksB4
+  - first:
+      213: 21300020
+    second: TireTracksC1
+  - first:
+      213: 21300022
+    second: TireTracksC3
+  - first:
+      213: 21300024
+    second: TireTracksC4
+  - first:
+      213: 21300026
+    second: IceRoadEdge1
+  - first:
+      213: 21300028
+    second: IceRoadEdge2
+  - first:
+      213: 21300030
+    second: IceRoadEdge7
+  - first:
+      213: 21300032
+    second: IceRoadEdge8
+  - first:
+      213: 21300034
+    second: IceRoadEdge9
+  - first:
+      213: 21300036
+    second: GroundRoadEdge9
+  - first:
+      213: 21300038
+    second: GroundRoadEdge10
+  - first:
+      213: 21300040
+    second: TireTracksA1
+  - first:
+      213: 21300042
+    second: IceRoadEdge3
+  - first:
+      213: 21300044
+    second: IceRoadEdge4
+  - first:
+      213: 21300046
+    second: GroundRoadEdge4
+  - first:
+      213: 21300048
+    second: GroundRoadEdge5
+  - first:
+      213: 21300050
+    second: GroundRoadEdge6
+  - first:
+      213: 21300052
+    second: TireTracksA2
+  - first:
+      213: 21300054
+    second: TireTracksB2
+  - first:
+      213: 21300056
+    second: TireTracksC2
+  - first:
+      213: 21300058
+    second: IceRoadEdge10
+  - first:
+      213: 21300060
+    second: IceRoadEdge11
+  - first:
+      213: 21300062
+    second: IceRoadEdge12
+  - first:
+      213: 21300064
+    second: SandRoadEdge1
+  - first:
+      213: 21300066
+    second: SandRoadEdge2
+  - first:
+      213: 21300068
+    second: GroundRoadEdge11
+  - first:
+      213: 21300070
+    second: GroundRoadEdge12
+  - first:
+      213: 21300072
+    second: TireTracksA5
+  - first:
+      213: 21300074
+    second: TireTracksA6
+  - first:
+      213: 21300076
+    second: TireTracksB5
+  - first:
+      213: 21300078
+    second: TireTracksB6
+  - first:
+      213: 21300080
+    second: TireTracksC5
+  - first:
+      213: 21300082
+    second: TireTracksC6
+  - first:
+      213: 21300084
+    second: IceRoadEdge5
+  - first:
+      213: 21300086
+    second: IceRoadEdge6
+  - first:
+      213: 21300088
+    second: SnowRoadEdge7
+  - first:
+      213: 21300090
+    second: SnowRoadEdge8
+  - first:
+      213: 21300092
+    second: SandRoadEdge3
+  - first:
+      213: 21300094
+    second: SandRoadEdge4
+  - first:
+      213: 21300096
+    second: SandRoadEdge7
+  - first:
+      213: 21300098
+    second: SandRoadEdge8
+  - first:
+      213: 21300100
+    second: SandRoadEdge9
+  - first:
+      213: 21300102
+    second: SnowRoadEdge1
+  - first:
+      213: 21300104
+    second: SnowRoadEdge2
+  - first:
+      213: 21300106
+    second: SnowRoadEdge3
+  - first:
+      213: 21300108
+    second: SnowRoadEdge9
+  - first:
+      213: 21300110
+    second: SnowRoadEdge10
+  - first:
+      213: 21300112
+    second: SandRoadEdge5
+  - first:
+      213: 21300114
+    second: SandRoadEdge6
+  - first:
+      213: 21300116
+    second: SandRoadEdge10
+  - first:
+      213: 21300118
+    second: SandRoadEdge11
+  - first:
+      213: 21300120
+    second: SandRoadEdge12
+  - first:
+      213: 21300122
+    second: SnowRoadEdge4
+  - first:
+      213: 21300124
+    second: SnowRoadEdge5
+  - first:
+      213: 21300126
+    second: SnowRoadEdge6
+  - first:
+      213: 21300128
+    second: SnowRoadEdge11
+  - first:
+      213: 21300130
+    second: SnowRoadEdge12
+  - first:
+      213: 21300132
+    second: SnowRoad1
+  - first:
+      213: 21300134
+    second: SnowRoad6
+  - first:
+      213: 21300136
+    second: SnowRoad7
+  - first:
+      213: 21300138
+    second: SnowRoad8
+  - first:
+      213: 21300140
+    second: SnowRoad14
+  - first:
+      213: 21300142
+    second: SnowRoad15
+  - first:
+      213: 21300144
+    second: SnowRoad18
+  - first:
+      213: 21300146
+    second: SnowRoad19
+  - first:
+      213: 21300148
+    second: SnowRoad22
+  - first:
+      213: 21300150
+    second: SnowRoad23
+  - first:
+      213: 21300152
+    second: SnowRoad28
+  - first:
+      213: 21300154
+    second: SnowRoad29
+  - first:
+      213: 21300156
+    second: SnowRoad2
+  - first:
+      213: 21300158
+    second: SnowRoad24
+  - first:
+      213: 21300160
+    second: SnowRoad25
+  - first:
+      213: 21300162
+    second: SnowRoad3
+  - first:
+      213: 21300164
+    second: SnowRoad9
+  - first:
+      213: 21300166
+    second: SnowRoad16
+  - first:
+      213: 21300168
+    second: SnowRoad17
+  - first:
+      213: 21300170
+    second: SnowRoad20
+  - first:
+      213: 21300172
+    second: SnowRoad21
+  - first:
+      213: 21300174
+    second: SnowRoad30
+  - first:
+      213: 21300176
+    second: SnowRoad31
+  - first:
+      213: 21300178
+    second: SnowRoad4
+  - first:
+      213: 21300180
+    second: SnowRoad5
+  - first:
+      213: 21300182
+    second: SnowRoad10
+  - first:
+      213: 21300184
+    second: SnowRoad11
+  - first:
+      213: 21300186
+    second: SnowRoad26
+  - first:
+      213: 21300188
+    second: SnowRoad27
+  - first:
+      213: 21300190
+    second: SnowRoad32
+  - first:
+      213: 21300192
+    second: SnowRoad33
+  - first:
+      213: 21300194
+    second: SnowRoad12
+  - first:
+      213: 21300196
+    second: SnowRoad13
+  - first:
+      213: 21300198
+    second: IceRoad1
+  - first:
+      213: 21300200
+    second: IceRoad7
+  - first:
+      213: 21300202
+    second: IceRoad8
+  - first:
+      213: 21300204
+    second: IceRoad9
+  - first:
+      213: 21300206
+    second: IceRoad14
+  - first:
+      213: 21300208
+    second: IceRoad15
+  - first:
+      213: 21300210
+    second: IceRoad18
+  - first:
+      213: 21300212
+    second: IceRoad19
+  - first:
+      213: 21300214
+    second: IceRoad22
+  - first:
+      213: 21300216
+    second: IceRoad23
+  - first:
+      213: 21300218
+    second: IceRoad28
+  - first:
+      213: 21300220
+    second: IceRoad29
+  - first:
+      213: 21300222
+    second: IceRoad2
+  - first:
+      213: 21300224
+    second: IceRoad24
+  - first:
+      213: 21300226
+    second: IceRoad25
+  - first:
+      213: 21300228
+    second: IceRoad30
+  - first:
+      213: 21300230
+    second: IceRoad31
+  - first:
+      213: 21300232
+    second: IceRoad3
+  - first:
+      213: 21300234
+    second: IceRoad10
+  - first:
+      213: 21300236
+    second: IceRoad16
+  - first:
+      213: 21300238
+    second: IceRoad17
+  - first:
+      213: 21300240
+    second: IceRoad20
+  - first:
+      213: 21300242
+    second: IceRoad21
+  - first:
+      213: 21300244
+    second: IceRoad32
+  - first:
+      213: 21300246
+    second: IceRoad33
+  - first:
+      213: 21300248
+    second: IceRoad4
+  - first:
+      213: 21300250
+    second: IceRoad5
+  - first:
+      213: 21300252
+    second: IceRoad6
+  - first:
+      213: 21300254
+    second: IceRoad11
+  - first:
+      213: 21300256
+    second: IceRoad26
+  - first:
+      213: 21300258
+    second: IceRoad27
+  - first:
+      213: 21300260
+    second: IceRoad12
+  - first:
+      213: 21300262
+    second: IceRoad13
+  - first:
+      213: 21300264
+    second: SandRoad1
+  - first:
+      213: 21300266
+    second: SandRoad6
+  - first:
+      213: 21300268
+    second: SandRoad7
+  - first:
+      213: 21300270
+    second: SandRoad8
+  - first:
+      213: 21300272
+    second: SandRoad14
+  - first:
+      213: 21300274
+    second: SandRoad15
+  - first:
+      213: 21300276
+    second: SandRoad18
+  - first:
+      213: 21300278
+    second: SandRoad19
+  - first:
+      213: 21300280
+    second: SandRoad22
+  - first:
+      213: 21300282
+    second: SandRoad23
+  - first:
+      213: 21300284
+    second: SandRoad28
+  - first:
+      213: 21300286
+    second: SandRoad29
+  - first:
+      213: 21300288
+    second: SandRoad2
+  - first:
+      213: 21300290
+    second: SandRoad24
+  - first:
+      213: 21300292
+    second: SandRoad25
+  - first:
+      213: 21300294
+    second: SandRoad30
+  - first:
+      213: 21300296
+    second: SandRoad31
+  - first:
+      213: 21300298
+    second: SandRoad3
+  - first:
+      213: 21300300
+    second: SandRoad9
+  - first:
+      213: 21300302
+    second: SandRoad16
+  - first:
+      213: 21300304
+    second: SandRoad17
+  - first:
+      213: 21300306
+    second: SandRoad20
+  - first:
+      213: 21300308
+    second: SandRoad21
+  - first:
+      213: 21300310
+    second: SandRoad32
+  - first:
+      213: 21300312
+    second: SandRoad33
+  - first:
+      213: 21300314
+    second: SandRoad4
+  - first:
+      213: 21300316
+    second: SandRoad5
+  - first:
+      213: 21300318
+    second: SandRoad10
+  - first:
+      213: 21300320
+    second: SandRoad11
+  - first:
+      213: 21300322
+    second: SandRoad26
+  - first:
+      213: 21300324
+    second: SandRoad27
+  - first:
+      213: 21300326
+    second: SandRoad12
+  - first:
+      213: 21300328
+    second: SandRoad13
+  - first:
+      213: 21300330
+    second: GroundRoad1
+  - first:
+      213: 21300332
+    second: GroundRoad7
+  - first:
+      213: 21300334
+    second: GroundRoad8
+  - first:
+      213: 21300336
+    second: GroundRoad9
+  - first:
+      213: 21300338
+    second: GroundRoad14
+  - first:
+      213: 21300340
+    second: GroundRoad15
+  - first:
+      213: 21300342
+    second: GroundRoad18
+  - first:
+      213: 21300344
+    second: GroundRoad19
+  - first:
+      213: 21300346
+    second: GroundRoad22
+  - first:
+      213: 21300348
+    second: GroundRoad23
+  - first:
+      213: 21300350
+    second: GroundRoad28
+  - first:
+      213: 21300352
+    second: GroundRoad29
+  - first:
+      213: 21300354
+    second: GroundRoad2
+  - first:
+      213: 21300356
+    second: GroundRoad24
+  - first:
+      213: 21300358
+    second: GroundRoad25
+  - first:
+      213: 21300360
+    second: GroundRoad30
+  - first:
+      213: 21300362
+    second: GroundRoad31
+  - first:
+      213: 21300364
+    second: GroundRoad3
+  - first:
+      213: 21300366
+    second: GroundRoad10
+  - first:
+      213: 21300368
+    second: GroundRoad16
+  - first:
+      213: 21300370
+    second: GroundRoad17
+  - first:
+      213: 21300372
+    second: GroundRoad20
+  - first:
+      213: 21300374
+    second: GroundRoad21
+  - first:
+      213: 21300376
+    second: GroundRoad32
+  - first:
+      213: 21300378
+    second: GroundRoad33
+  - first:
+      213: 21300380
+    second: GroundRoad4
+  - first:
+      213: 21300382
+    second: GroundRoad5
+  - first:
+      213: 21300384
+    second: GroundRoad6
+  - first:
+      213: 21300386
+    second: GroundRoad11
+  - first:
+      213: 21300388
+    second: GroundRoad26
+  - first:
+      213: 21300390
+    second: GroundRoad27
+  - first:
+      213: 21300392
+    second: GroundRoad12
+  - first:
+      213: 21300394
+    second: GroundRoad13
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: GroundRoadEdge1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 1968
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02305410000000000800000000000000
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundRoadEdge2
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 1968
+        width: 64
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22305410000000000800000000000000
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundRoadEdge3
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 1968
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42305410000000000800000000000000
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundRoadEdge7
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 2000
+        width: 48
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62305410000000000800000000000000
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundRoadEdge8
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 2000
+        width: 48
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82305410000000000800000000000000
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TireTracksA3
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 1908
+        width: 90
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2305410000000000800000000000000
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TireTracksA4
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 1909
+        width: 90
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2305410000000000800000000000000
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TireTracksB1
+      rect:
+        serializedVersion: 2
+        x: 837
+        y: 1962
+        width: 121
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2305410000000000800000000000000
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TireTracksB3
+      rect:
+        serializedVersion: 2
+        x: 1010
+        y: 1910
+        width: 90
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03305410000000000800000000000000
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TireTracksB4
+      rect:
+        serializedVersion: 2
+        x: 1129
+        y: 1911
+        width: 90
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23305410000000000800000000000000
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TireTracksC1
+      rect:
+        serializedVersion: 2
+        x: 1299
+        y: 1961
+        width: 121
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43305410000000000800000000000000
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TireTracksC3
+      rect:
+        serializedVersion: 2
+        x: 1472
+        y: 1909
+        width: 90
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63305410000000000800000000000000
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TireTracksC4
+      rect:
+        serializedVersion: 2
+        x: 1591
+        y: 1910
+        width: 90
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83305410000000000800000000000000
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceRoadEdge1
+      rect:
+        serializedVersion: 2
+        x: 1728
+        y: 2000
+        width: 48
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3305410000000000800000000000000
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceRoadEdge2
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 2000
+        width: 48
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3305410000000000800000000000000
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceRoadEdge7
+      rect:
+        serializedVersion: 2
+        x: 1872
+        y: 1968
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3305410000000000800000000000000
+      internalID: 21300030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceRoadEdge8
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 1968
+        width: 64
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04305410000000000800000000000000
+      internalID: 21300032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceRoadEdge9
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 1968
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24305410000000000800000000000000
+      internalID: 21300034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundRoadEdge9
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 1920
+        width: 48
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44305410000000000800000000000000
+      internalID: 21300036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundRoadEdge10
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 1920
+        width: 48
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64305410000000000800000000000000
+      internalID: 21300038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TireTracksA1
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 1960
+        width: 121
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84305410000000000800000000000000
+      internalID: 21300040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceRoadEdge3
+      rect:
+        serializedVersion: 2
+        x: 1728
+        y: 1920
+        width: 48
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4305410000000000800000000000000
+      internalID: 21300042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceRoadEdge4
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 1920
+        width: 48
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4305410000000000800000000000000
+      internalID: 21300044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundRoadEdge4
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 1904
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4305410000000000800000000000000
+      internalID: 21300046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundRoadEdge5
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 1904
+        width: 64
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05305410000000000800000000000000
+      internalID: 21300048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundRoadEdge6
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 1904
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25305410000000000800000000000000
+      internalID: 21300050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TireTracksA2
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 1793
+        width: 40
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45305410000000000800000000000000
+      internalID: 21300052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TireTracksB2
+      rect:
+        serializedVersion: 2
+        x: 861
+        y: 1795
+        width: 40
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65305410000000000800000000000000
+      internalID: 21300054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TireTracksC2
+      rect:
+        serializedVersion: 2
+        x: 1323
+        y: 1794
+        width: 40
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85305410000000000800000000000000
+      internalID: 21300056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceRoadEdge10
+      rect:
+        serializedVersion: 2
+        x: 1872
+        y: 1904
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5305410000000000800000000000000
+      internalID: 21300058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceRoadEdge11
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 1904
+        width: 64
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5305410000000000800000000000000
+      internalID: 21300060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceRoadEdge12
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 1904
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5305410000000000800000000000000
+      internalID: 21300062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SandRoadEdge1
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 1856
+        width: 48
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06305410000000000800000000000000
+      internalID: 21300064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SandRoadEdge2
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 1856
+        width: 48
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26305410000000000800000000000000
+      internalID: 21300066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundRoadEdge11
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 1872
+        width: 48
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46305410000000000800000000000000
+      internalID: 21300068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundRoadEdge12
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 1872
+        width: 48
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66305410000000000800000000000000
+      internalID: 21300070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TireTracksA5
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 1789
+        width: 90
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86305410000000000800000000000000
+      internalID: 21300072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TireTracksA6
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 1788
+        width: 90
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6305410000000000800000000000000
+      internalID: 21300074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TireTracksB5
+      rect:
+        serializedVersion: 2
+        x: 1010
+        y: 1791
+        width: 90
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6305410000000000800000000000000
+      internalID: 21300076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TireTracksB6
+      rect:
+        serializedVersion: 2
+        x: 1129
+        y: 1790
+        width: 90
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6305410000000000800000000000000
+      internalID: 21300078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TireTracksC5
+      rect:
+        serializedVersion: 2
+        x: 1472
+        y: 1790
+        width: 90
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07305410000000000800000000000000
+      internalID: 21300080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TireTracksC6
+      rect:
+        serializedVersion: 2
+        x: 1591
+        y: 1789
+        width: 90
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27305410000000000800000000000000
+      internalID: 21300082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceRoadEdge5
+      rect:
+        serializedVersion: 2
+        x: 1728
+        y: 1872
+        width: 48
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47305410000000000800000000000000
+      internalID: 21300084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceRoadEdge6
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 1872
+        width: 48
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67305410000000000800000000000000
+      internalID: 21300086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowRoadEdge7
+      rect:
+        serializedVersion: 2
+        x: 1904
+        y: 1856
+        width: 48
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87305410000000000800000000000000
+      internalID: 21300088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowRoadEdge8
+      rect:
+        serializedVersion: 2
+        x: 1968
+        y: 1856
+        width: 48
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7305410000000000800000000000000
+      internalID: 21300090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SandRoadEdge3
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 1776
+        width: 48
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7305410000000000800000000000000
+      internalID: 21300092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SandRoadEdge4
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 1776
+        width: 48
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7305410000000000800000000000000
+      internalID: 21300094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SandRoadEdge7
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 1808
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08305410000000000800000000000000
+      internalID: 21300096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SandRoadEdge8
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 1808
+        width: 64
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28305410000000000800000000000000
+      internalID: 21300098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SandRoadEdge9
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 1808
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48305410000000000800000000000000
+      internalID: 21300100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowRoadEdge1
+      rect:
+        serializedVersion: 2
+        x: 1728
+        y: 1808
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68305410000000000800000000000000
+      internalID: 21300102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowRoadEdge2
+      rect:
+        serializedVersion: 2
+        x: 1776
+        y: 1808
+        width: 64
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88305410000000000800000000000000
+      internalID: 21300104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowRoadEdge3
+      rect:
+        serializedVersion: 2
+        x: 1856
+        y: 1808
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8305410000000000800000000000000
+      internalID: 21300106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowRoadEdge9
+      rect:
+        serializedVersion: 2
+        x: 1904
+        y: 1776
+        width: 48
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8305410000000000800000000000000
+      internalID: 21300108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowRoadEdge10
+      rect:
+        serializedVersion: 2
+        x: 1968
+        y: 1776
+        width: 48
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8305410000000000800000000000000
+      internalID: 21300110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SandRoadEdge5
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 1728
+        width: 48
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09305410000000000800000000000000
+      internalID: 21300112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SandRoadEdge6
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 1728
+        width: 48
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29305410000000000800000000000000
+      internalID: 21300114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SandRoadEdge10
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 1744
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49305410000000000800000000000000
+      internalID: 21300116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SandRoadEdge11
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 1744
+        width: 64
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69305410000000000800000000000000
+      internalID: 21300118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SandRoadEdge12
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 1744
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89305410000000000800000000000000
+      internalID: 21300120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowRoadEdge4
+      rect:
+        serializedVersion: 2
+        x: 1728
+        y: 1744
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9305410000000000800000000000000
+      internalID: 21300122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowRoadEdge5
+      rect:
+        serializedVersion: 2
+        x: 1776
+        y: 1744
+        width: 64
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9305410000000000800000000000000
+      internalID: 21300124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowRoadEdge6
+      rect:
+        serializedVersion: 2
+        x: 1856
+        y: 1744
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9305410000000000800000000000000
+      internalID: 21300126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowRoadEdge11
+      rect:
+        serializedVersion: 2
+        x: 1904
+        y: 1728
+        width: 48
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a305410000000000800000000000000
+      internalID: 21300128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowRoadEdge12
+      rect:
+        serializedVersion: 2
+        x: 1968
+        y: 1728
+        width: 48
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a305410000000000800000000000000
+      internalID: 21300130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowRoad1
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 1680
+        width: 96
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a305410000000000800000000000000
+      internalID: 21300132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowRoad6
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 1600
+        width: 16
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a305410000000000800000000000000
+      internalID: 21300134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowRoad7
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 1600
+        width: 64
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a305410000000000800000000000000
+      internalID: 21300136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowRoad8
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 1600
+        width: 128
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa305410000000000800000000000000
+      internalID: 21300138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowRoad14
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 1568
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca305410000000000800000000000000
+      internalID: 21300140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowRoad15
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 1568
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea305410000000000800000000000000
+      internalID: 21300142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowRoad18
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 1552
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b305410000000000800000000000000
+      internalID: 21300144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowRoad19
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 1552
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b305410000000000800000000000000
+      internalID: 21300146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowRoad22
+      rect:
+        serializedVersion: 2
+        x: 1287
+        y: 1653
+        width: 105
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b305410000000000800000000000000
+      internalID: 21300148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowRoad23
+      rect:
+        serializedVersion: 2
+        x: 1488
+        y: 1653
+        width: 105
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b305410000000000800000000000000
+      internalID: 21300150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowRoad28
+      rect:
+        serializedVersion: 2
+        x: 1648
+        y: 1600
+        width: 91
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b305410000000000800000000000000
+      internalID: 21300152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowRoad29
+      rect:
+        serializedVersion: 2
+        x: 1765
+        y: 1607
+        width: 91
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab305410000000000800000000000000
+      internalID: 21300154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowRoad2
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 1600
+        width: 96
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb305410000000000800000000000000
+      internalID: 21300156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowRoad24
+      rect:
+        serializedVersion: 2
+        x: 1257
+        y: 1477
+        width: 148
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb305410000000000800000000000000
+      internalID: 21300158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowRoad25
+      rect:
+        serializedVersion: 2
+        x: 1444
+        y: 1478
+        width: 148
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c305410000000000800000000000000
+      internalID: 21300160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowRoad3
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 1456
+        width: 96
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c305410000000000800000000000000
+      internalID: 21300162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowRoad9
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 1456
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c305410000000000800000000000000
+      internalID: 21300164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowRoad16
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 1408
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c305410000000000800000000000000
+      internalID: 21300166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowRoad17
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 1408
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c305410000000000800000000000000
+      internalID: 21300168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowRoad20
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 1344
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac305410000000000800000000000000
+      internalID: 21300170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowRoad21
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 1344
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc305410000000000800000000000000
+      internalID: 21300172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowRoad30
+      rect:
+        serializedVersion: 2
+        x: 1648
+        y: 1479
+        width: 91
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec305410000000000800000000000000
+      internalID: 21300174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowRoad31
+      rect:
+        serializedVersion: 2
+        x: 1765
+        y: 1472
+        width: 91
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d305410000000000800000000000000
+      internalID: 21300176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowRoad4
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 1344
+        width: 64
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d305410000000000800000000000000
+      internalID: 21300178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowRoad5
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1344
+        width: 16
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d305410000000000800000000000000
+      internalID: 21300180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowRoad10
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 1344
+        width: 64
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d305410000000000800000000000000
+      internalID: 21300182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowRoad11
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 1424
+        width: 96
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d305410000000000800000000000000
+      internalID: 21300184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowRoad26
+      rect:
+        serializedVersion: 2
+        x: 1264
+        y: 1360
+        width: 105
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad305410000000000800000000000000
+      internalID: 21300186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowRoad27
+      rect:
+        serializedVersion: 2
+        x: 1458
+        y: 1360
+        width: 105
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd305410000000000800000000000000
+      internalID: 21300188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowRoad32
+      rect:
+        serializedVersion: 2
+        x: 1616
+        y: 1328
+        width: 112
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed305410000000000800000000000000
+      internalID: 21300190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowRoad33
+      rect:
+        serializedVersion: 2
+        x: 1760
+        y: 1344
+        width: 128
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e305410000000000800000000000000
+      internalID: 21300192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowRoad12
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 1344
+        width: 96
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e305410000000000800000000000000
+      internalID: 21300194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowRoad13
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1344
+        width: 96
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e305410000000000800000000000000
+      internalID: 21300196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceRoad1
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 1248
+        width: 96
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e305410000000000800000000000000
+      internalID: 21300198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceRoad7
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 1168
+        width: 16
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e305410000000000800000000000000
+      internalID: 21300200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceRoad8
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 1168
+        width: 64
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae305410000000000800000000000000
+      internalID: 21300202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceRoad9
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 1168
+        width: 128
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce305410000000000800000000000000
+      internalID: 21300204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceRoad14
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 1136
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee305410000000000800000000000000
+      internalID: 21300206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceRoad15
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 1136
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f305410000000000800000000000000
+      internalID: 21300208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceRoad18
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 1120
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f305410000000000800000000000000
+      internalID: 21300210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceRoad19
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 1120
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f305410000000000800000000000000
+      internalID: 21300212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceRoad22
+      rect:
+        serializedVersion: 2
+        x: 1287
+        y: 1221
+        width: 105
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f305410000000000800000000000000
+      internalID: 21300214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceRoad23
+      rect:
+        serializedVersion: 2
+        x: 1488
+        y: 1221
+        width: 105
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f305410000000000800000000000000
+      internalID: 21300216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceRoad28
+      rect:
+        serializedVersion: 2
+        x: 1648
+        y: 1200
+        width: 91
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af305410000000000800000000000000
+      internalID: 21300218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceRoad29
+      rect:
+        serializedVersion: 2
+        x: 1765
+        y: 1207
+        width: 91
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf305410000000000800000000000000
+      internalID: 21300220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceRoad2
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 1168
+        width: 96
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef305410000000000800000000000000
+      internalID: 21300222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceRoad24
+      rect:
+        serializedVersion: 2
+        x: 1257
+        y: 1045
+        width: 148
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00405410000000000800000000000000
+      internalID: 21300224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceRoad25
+      rect:
+        serializedVersion: 2
+        x: 1444
+        y: 1046
+        width: 148
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20405410000000000800000000000000
+      internalID: 21300226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceRoad30
+      rect:
+        serializedVersion: 2
+        x: 1648
+        y: 1079
+        width: 91
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40405410000000000800000000000000
+      internalID: 21300228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceRoad31
+      rect:
+        serializedVersion: 2
+        x: 1765
+        y: 1072
+        width: 91
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60405410000000000800000000000000
+      internalID: 21300230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceRoad3
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 1024
+        width: 96
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80405410000000000800000000000000
+      internalID: 21300232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceRoad10
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 1024
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0405410000000000800000000000000
+      internalID: 21300234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceRoad16
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 976
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0405410000000000800000000000000
+      internalID: 21300236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceRoad17
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 976
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0405410000000000800000000000000
+      internalID: 21300238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceRoad20
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 912
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01405410000000000800000000000000
+      internalID: 21300240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceRoad21
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 912
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21405410000000000800000000000000
+      internalID: 21300242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceRoad32
+      rect:
+        serializedVersion: 2
+        x: 1616
+        y: 928
+        width: 112
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41405410000000000800000000000000
+      internalID: 21300244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceRoad33
+      rect:
+        serializedVersion: 2
+        x: 1760
+        y: 944
+        width: 128
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61405410000000000800000000000000
+      internalID: 21300246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceRoad4
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 912
+        width: 64
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81405410000000000800000000000000
+      internalID: 21300248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceRoad5
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 912
+        width: 16
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1405410000000000800000000000000
+      internalID: 21300250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceRoad6
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 912
+        width: 64
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1405410000000000800000000000000
+      internalID: 21300252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceRoad11
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 992
+        width: 96
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1405410000000000800000000000000
+      internalID: 21300254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceRoad26
+      rect:
+        serializedVersion: 2
+        x: 1264
+        y: 928
+        width: 105
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02405410000000000800000000000000
+      internalID: 21300256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceRoad27
+      rect:
+        serializedVersion: 2
+        x: 1458
+        y: 928
+        width: 105
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22405410000000000800000000000000
+      internalID: 21300258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceRoad12
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 912
+        width: 96
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42405410000000000800000000000000
+      internalID: 21300260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceRoad13
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 912
+        width: 96
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62405410000000000800000000000000
+      internalID: 21300262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SandRoad1
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 816
+        width: 96
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82405410000000000800000000000000
+      internalID: 21300264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SandRoad6
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 736
+        width: 16
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2405410000000000800000000000000
+      internalID: 21300266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SandRoad7
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 736
+        width: 64
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2405410000000000800000000000000
+      internalID: 21300268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SandRoad8
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 736
+        width: 128
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2405410000000000800000000000000
+      internalID: 21300270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SandRoad14
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 704
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03405410000000000800000000000000
+      internalID: 21300272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SandRoad15
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 704
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23405410000000000800000000000000
+      internalID: 21300274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SandRoad18
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 688
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43405410000000000800000000000000
+      internalID: 21300276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SandRoad19
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 688
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63405410000000000800000000000000
+      internalID: 21300278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SandRoad22
+      rect:
+        serializedVersion: 2
+        x: 1287
+        y: 789
+        width: 105
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83405410000000000800000000000000
+      internalID: 21300280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SandRoad23
+      rect:
+        serializedVersion: 2
+        x: 1488
+        y: 789
+        width: 105
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3405410000000000800000000000000
+      internalID: 21300282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SandRoad28
+      rect:
+        serializedVersion: 2
+        x: 1648
+        y: 768
+        width: 91
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3405410000000000800000000000000
+      internalID: 21300284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SandRoad29
+      rect:
+        serializedVersion: 2
+        x: 1765
+        y: 775
+        width: 91
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3405410000000000800000000000000
+      internalID: 21300286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SandRoad2
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 736
+        width: 96
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04405410000000000800000000000000
+      internalID: 21300288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SandRoad24
+      rect:
+        serializedVersion: 2
+        x: 1257
+        y: 613
+        width: 148
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24405410000000000800000000000000
+      internalID: 21300290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SandRoad25
+      rect:
+        serializedVersion: 2
+        x: 1444
+        y: 614
+        width: 148
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44405410000000000800000000000000
+      internalID: 21300292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SandRoad30
+      rect:
+        serializedVersion: 2
+        x: 1648
+        y: 647
+        width: 91
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64405410000000000800000000000000
+      internalID: 21300294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SandRoad31
+      rect:
+        serializedVersion: 2
+        x: 1765
+        y: 640
+        width: 91
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84405410000000000800000000000000
+      internalID: 21300296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SandRoad3
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 592
+        width: 96
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4405410000000000800000000000000
+      internalID: 21300298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SandRoad9
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 592
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4405410000000000800000000000000
+      internalID: 21300300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SandRoad16
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 544
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4405410000000000800000000000000
+      internalID: 21300302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SandRoad17
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 544
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05405410000000000800000000000000
+      internalID: 21300304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SandRoad20
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 480
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25405410000000000800000000000000
+      internalID: 21300306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SandRoad21
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 480
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45405410000000000800000000000000
+      internalID: 21300308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SandRoad32
+      rect:
+        serializedVersion: 2
+        x: 1616
+        y: 496
+        width: 112
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65405410000000000800000000000000
+      internalID: 21300310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SandRoad33
+      rect:
+        serializedVersion: 2
+        x: 1760
+        y: 512
+        width: 128
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85405410000000000800000000000000
+      internalID: 21300312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SandRoad4
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 480
+        width: 64
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5405410000000000800000000000000
+      internalID: 21300314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SandRoad5
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 480
+        width: 16
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5405410000000000800000000000000
+      internalID: 21300316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SandRoad10
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 480
+        width: 64
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5405410000000000800000000000000
+      internalID: 21300318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SandRoad11
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 560
+        width: 96
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06405410000000000800000000000000
+      internalID: 21300320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SandRoad26
+      rect:
+        serializedVersion: 2
+        x: 1264
+        y: 496
+        width: 105
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26405410000000000800000000000000
+      internalID: 21300322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SandRoad27
+      rect:
+        serializedVersion: 2
+        x: 1458
+        y: 496
+        width: 105
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46405410000000000800000000000000
+      internalID: 21300324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SandRoad12
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 480
+        width: 96
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66405410000000000800000000000000
+      internalID: 21300326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SandRoad13
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 480
+        width: 96
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86405410000000000800000000000000
+      internalID: 21300328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundRoad1
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 384
+        width: 96
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6405410000000000800000000000000
+      internalID: 21300330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundRoad7
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 304
+        width: 16
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6405410000000000800000000000000
+      internalID: 21300332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundRoad8
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 304
+        width: 64
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6405410000000000800000000000000
+      internalID: 21300334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundRoad9
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 304
+        width: 128
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07405410000000000800000000000000
+      internalID: 21300336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundRoad14
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 272
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27405410000000000800000000000000
+      internalID: 21300338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundRoad15
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 272
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47405410000000000800000000000000
+      internalID: 21300340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundRoad18
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 256
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67405410000000000800000000000000
+      internalID: 21300342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundRoad19
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 256
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87405410000000000800000000000000
+      internalID: 21300344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundRoad22
+      rect:
+        serializedVersion: 2
+        x: 1287
+        y: 357
+        width: 105
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7405410000000000800000000000000
+      internalID: 21300346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundRoad23
+      rect:
+        serializedVersion: 2
+        x: 1488
+        y: 357
+        width: 105
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7405410000000000800000000000000
+      internalID: 21300348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundRoad28
+      rect:
+        serializedVersion: 2
+        x: 1648
+        y: 336
+        width: 91
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7405410000000000800000000000000
+      internalID: 21300350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundRoad29
+      rect:
+        serializedVersion: 2
+        x: 1765
+        y: 343
+        width: 91
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08405410000000000800000000000000
+      internalID: 21300352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundRoad2
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 304
+        width: 96
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28405410000000000800000000000000
+      internalID: 21300354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundRoad24
+      rect:
+        serializedVersion: 2
+        x: 1257
+        y: 181
+        width: 148
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48405410000000000800000000000000
+      internalID: 21300356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundRoad25
+      rect:
+        serializedVersion: 2
+        x: 1444
+        y: 182
+        width: 148
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68405410000000000800000000000000
+      internalID: 21300358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundRoad30
+      rect:
+        serializedVersion: 2
+        x: 1648
+        y: 215
+        width: 91
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88405410000000000800000000000000
+      internalID: 21300360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundRoad31
+      rect:
+        serializedVersion: 2
+        x: 1765
+        y: 208
+        width: 91
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8405410000000000800000000000000
+      internalID: 21300362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundRoad3
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 160
+        width: 96
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8405410000000000800000000000000
+      internalID: 21300364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundRoad10
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 160
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8405410000000000800000000000000
+      internalID: 21300366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundRoad16
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 112
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09405410000000000800000000000000
+      internalID: 21300368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundRoad17
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 112
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29405410000000000800000000000000
+      internalID: 21300370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundRoad20
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 48
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49405410000000000800000000000000
+      internalID: 21300372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundRoad21
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 48
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69405410000000000800000000000000
+      internalID: 21300374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundRoad32
+      rect:
+        serializedVersion: 2
+        x: 1616
+        y: 64
+        width: 112
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89405410000000000800000000000000
+      internalID: 21300376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundRoad33
+      rect:
+        serializedVersion: 2
+        x: 1760
+        y: 80
+        width: 128
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9405410000000000800000000000000
+      internalID: 21300378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundRoad4
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 48
+        width: 64
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9405410000000000800000000000000
+      internalID: 21300380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundRoad5
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 48
+        width: 16
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9405410000000000800000000000000
+      internalID: 21300382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundRoad6
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 48
+        width: 64
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a405410000000000800000000000000
+      internalID: 21300384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundRoad11
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 128
+        width: 96
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a405410000000000800000000000000
+      internalID: 21300386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundRoad26
+      rect:
+        serializedVersion: 2
+        x: 1264
+        y: 64
+        width: 105
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a405410000000000800000000000000
+      internalID: 21300388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundRoad27
+      rect:
+        serializedVersion: 2
+        x: 1458
+        y: 64
+        width: 105
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a405410000000000800000000000000
+      internalID: 21300390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundRoad12
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 48
+        width: 96
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a405410000000000800000000000000
+      internalID: 21300392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundRoad13
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 48
+        width: 96
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa405410000000000800000000000000
+      internalID: 21300394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      GroundRoad1: 21300330
+      GroundRoad10: 21300366
+      GroundRoad11: 21300386
+      GroundRoad12: 21300392
+      GroundRoad13: 21300394
+      GroundRoad14: 21300338
+      GroundRoad15: 21300340
+      GroundRoad16: 21300368
+      GroundRoad17: 21300370
+      GroundRoad18: 21300342
+      GroundRoad19: 21300344
+      GroundRoad2: 21300354
+      GroundRoad20: 21300372
+      GroundRoad21: 21300374
+      GroundRoad22: 21300346
+      GroundRoad23: 21300348
+      GroundRoad24: 21300356
+      GroundRoad25: 21300358
+      GroundRoad26: 21300388
+      GroundRoad27: 21300390
+      GroundRoad28: 21300350
+      GroundRoad29: 21300352
+      GroundRoad3: 21300364
+      GroundRoad30: 21300360
+      GroundRoad31: 21300362
+      GroundRoad32: 21300376
+      GroundRoad33: 21300378
+      GroundRoad4: 21300380
+      GroundRoad5: 21300382
+      GroundRoad6: 21300384
+      GroundRoad7: 21300332
+      GroundRoad8: 21300334
+      GroundRoad9: 21300336
+      GroundRoadEdge1: 21300000
+      GroundRoadEdge10: 21300038
+      GroundRoadEdge11: 21300068
+      GroundRoadEdge12: 21300070
+      GroundRoadEdge2: 21300002
+      GroundRoadEdge3: 21300004
+      GroundRoadEdge4: 21300046
+      GroundRoadEdge5: 21300048
+      GroundRoadEdge6: 21300050
+      GroundRoadEdge7: 21300006
+      GroundRoadEdge8: 21300008
+      GroundRoadEdge9: 21300036
+      IceRoad1: 21300198
+      IceRoad10: 21300234
+      IceRoad11: 21300254
+      IceRoad12: 21300260
+      IceRoad13: 21300262
+      IceRoad14: 21300206
+      IceRoad15: 21300208
+      IceRoad16: 21300236
+      IceRoad17: 21300238
+      IceRoad18: 21300210
+      IceRoad19: 21300212
+      IceRoad2: 21300222
+      IceRoad20: 21300240
+      IceRoad21: 21300242
+      IceRoad22: 21300214
+      IceRoad23: 21300216
+      IceRoad24: 21300224
+      IceRoad25: 21300226
+      IceRoad26: 21300256
+      IceRoad27: 21300258
+      IceRoad28: 21300218
+      IceRoad29: 21300220
+      IceRoad3: 21300232
+      IceRoad30: 21300228
+      IceRoad31: 21300230
+      IceRoad32: 21300244
+      IceRoad33: 21300246
+      IceRoad4: 21300248
+      IceRoad5: 21300250
+      IceRoad6: 21300252
+      IceRoad7: 21300200
+      IceRoad8: 21300202
+      IceRoad9: 21300204
+      IceRoadEdge1: 21300026
+      IceRoadEdge10: 21300058
+      IceRoadEdge11: 21300060
+      IceRoadEdge12: 21300062
+      IceRoadEdge2: 21300028
+      IceRoadEdge3: 21300042
+      IceRoadEdge4: 21300044
+      IceRoadEdge5: 21300084
+      IceRoadEdge6: 21300086
+      IceRoadEdge7: 21300030
+      IceRoadEdge8: 21300032
+      IceRoadEdge9: 21300034
+      SandRoad1: 21300264
+      SandRoad10: 21300318
+      SandRoad11: 21300320
+      SandRoad12: 21300326
+      SandRoad13: 21300328
+      SandRoad14: 21300272
+      SandRoad15: 21300274
+      SandRoad16: 21300302
+      SandRoad17: 21300304
+      SandRoad18: 21300276
+      SandRoad19: 21300278
+      SandRoad2: 21300288
+      SandRoad20: 21300306
+      SandRoad21: 21300308
+      SandRoad22: 21300280
+      SandRoad23: 21300282
+      SandRoad24: 21300290
+      SandRoad25: 21300292
+      SandRoad26: 21300322
+      SandRoad27: 21300324
+      SandRoad28: 21300284
+      SandRoad29: 21300286
+      SandRoad3: 21300298
+      SandRoad30: 21300294
+      SandRoad31: 21300296
+      SandRoad32: 21300310
+      SandRoad33: 21300312
+      SandRoad4: 21300314
+      SandRoad5: 21300316
+      SandRoad6: 21300266
+      SandRoad7: 21300268
+      SandRoad8: 21300270
+      SandRoad9: 21300300
+      SandRoadEdge1: 21300064
+      SandRoadEdge10: 21300116
+      SandRoadEdge11: 21300118
+      SandRoadEdge12: 21300120
+      SandRoadEdge2: 21300066
+      SandRoadEdge3: 21300092
+      SandRoadEdge4: 21300094
+      SandRoadEdge5: 21300112
+      SandRoadEdge6: 21300114
+      SandRoadEdge7: 21300096
+      SandRoadEdge8: 21300098
+      SandRoadEdge9: 21300100
+      SnowRoad1: 21300132
+      SnowRoad10: 21300182
+      SnowRoad11: 21300184
+      SnowRoad12: 21300194
+      SnowRoad13: 21300196
+      SnowRoad14: 21300140
+      SnowRoad15: 21300142
+      SnowRoad16: 21300166
+      SnowRoad17: 21300168
+      SnowRoad18: 21300144
+      SnowRoad19: 21300146
+      SnowRoad2: 21300156
+      SnowRoad20: 21300170
+      SnowRoad21: 21300172
+      SnowRoad22: 21300148
+      SnowRoad23: 21300150
+      SnowRoad24: 21300158
+      SnowRoad25: 21300160
+      SnowRoad26: 21300186
+      SnowRoad27: 21300188
+      SnowRoad28: 21300152
+      SnowRoad29: 21300154
+      SnowRoad3: 21300162
+      SnowRoad30: 21300174
+      SnowRoad31: 21300176
+      SnowRoad32: 21300190
+      SnowRoad33: 21300192
+      SnowRoad4: 21300178
+      SnowRoad5: 21300180
+      SnowRoad6: 21300134
+      SnowRoad7: 21300136
+      SnowRoad8: 21300138
+      SnowRoad9: 21300164
+      SnowRoadEdge1: 21300102
+      SnowRoadEdge10: 21300110
+      SnowRoadEdge11: 21300128
+      SnowRoadEdge12: 21300130
+      SnowRoadEdge2: 21300104
+      SnowRoadEdge3: 21300106
+      SnowRoadEdge4: 21300122
+      SnowRoadEdge5: 21300124
+      SnowRoadEdge6: 21300126
+      SnowRoadEdge7: 21300088
+      SnowRoadEdge8: 21300090
+      SnowRoadEdge9: 21300108
+      TireTracksA1: 21300040
+      TireTracksA2: 21300052
+      TireTracksA3: 21300010
+      TireTracksA4: 21300012
+      TireTracksA5: 21300072
+      TireTracksA6: 21300074
+      TireTracksB1: 21300014
+      TireTracksB2: 21300054
+      TireTracksB3: 21300016
+      TireTracksB4: 21300018
+      TireTracksB5: 21300076
+      TireTracksB6: 21300078
+      TireTracksC1: 21300020
+      TireTracksC2: 21300056
+      TireTracksC3: 21300022
+      TireTracksC4: 21300024
+      TireTracksC5: 21300080
+      TireTracksC6: 21300082
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
